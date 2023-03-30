@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "430aad52e6203bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6923e6e3d5da7635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e04c65a2832f23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede671761f08278d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34b5741a917932c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db293aa46b3caf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3004fb51278d01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22f262b6f3984203",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "8bfae31a1a93d90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ad7cae2c75de71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec9586be1857233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c73cfe222db227c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81179e374360f4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11c2aba0e74f1611",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8e04c65a2832f23",
+  "lastOpenFiles": [
+    "SQL.md",
+    "Bwapp-writeups/XSS.md",
+    "Bwapp-writeups/SQL.md",
+    "Bwapp-writeups/Pasted image 20230330105019.png",
+    "Bwapp-writeups/Pasted image 20230330104038.png",
+    "Bwapp-writeups/Pasted image 20230330103949.png",
+    "Bwapp-writeups/Pasted image 20230329224307.png",
+    "Bwapp-writeups/README.md",
+    "Bwapp-writeups",
+    "Pasted image 20230330105019.png",
+    "Pasted image 20230330104038.png",
+    "Pasted image 20230330103949.png",
+    "XSS.md",
+    "Pasted image 20230329224307.png",
+    "Untitled.canvas",
+    "Untitled.md"
+  ]
+}
